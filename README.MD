@@ -2,6 +2,13 @@
 
 I'm a passionate and innovative Full Stack Developer with a strong interest in blockchain technology and its integration with other cutting-edge technologies such as IoT, Smart Cities, AI, Metaverse, Fintech, Robotics, and hardware development using Raspberry Pi and Arduino. 🚀
 
+
+
+[![](https://raw.githubusercontent.com/layla-lili/Layla-lili/main/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/layla-lili/Layla-lili/main/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/layla-lili/Layla-lili/main/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/layla-lili/Layla-lili/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/layla-lili/Layla-lili/main/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 #### About Me
 - 💡 Constantly exploring new technologies and pushing the boundaries of innovation.
 - 📚 Lifelong learner committed to expanding my knowledge and skills.
