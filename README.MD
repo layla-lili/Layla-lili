@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+I+am+Junior+Developer+Layla+Abdulla)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+I+am+Layla+Abdulla)](https://git.io/typing-svg)
 
 I'm a passionate and innovative Full Stack Developer with a strong interest in blockchain technology and its integration with other cutting-edge technologies such as IoT, Smart Cities, AI, Metaverse, Fintech, Robotics, and hardware development using Raspberry Pi and Arduino. 🚀
 
