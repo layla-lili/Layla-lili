@@ -1,6 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+👋+I+am+Layla+Abdulla)](https://git.io/typing-svg)
-
-<h1 align="center">Hi 👋, I'm Layla Abdulla</h1>
+<h1 align="center">### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+👋+I+am+Layla+Abdulla)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Full stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
