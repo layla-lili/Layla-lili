@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+I+am+Layla+Abdulla)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1298&random=false&width=435&lines=Hi%2C+👋+I+am+Layla+Abdulla)](https://git.io/typing-svg)
 
 I'm a passionate and innovative Full Stack Developer with a strong interest in blockchain technology and its integration with other cutting-edge technologies such as IoT, Smart Cities, AI, Metaverse, Fintech, Robotics, and hardware development using Raspberry Pi and Arduino. 🚀
 
@@ -14,6 +14,11 @@ I'm a passionate and innovative Full Stack Developer with a strong interest in b
 - 📚 Lifelong learner committed to expanding my knowledge and skills.
 - 🎓 Currently studying at [Reboot](https://reboot.com) where collective intelligence thrives.
 - 😺 Cat lover 🐱
+- 🔭 I’m currently working on **Reboot01 Projects**
+
+- 🌱 I’m currently learning **Rest API golang and JS**
+
+- 👯 I’m looking to collaborate on **Blockchain Based Projects**
 
 #### Skills
 - **Programming Languages:** JavaScript, Python, Solidity, Java
@@ -40,11 +45,7 @@ I'm a passionate and innovative Full Stack Developer with a strong interest in b
 <h1 align="center">Hi 👋, I'm Layla Abdulla</h1>
 <h3 align="center">A passionate Full stack Developer</h3>
 
-- 🔭 I’m currently working on **Reboot01 Projects**
 
-- 🌱 I’m currently learning **Rest API golang and JS**
-
-- 👯 I’m looking to collaborate on **Blockchain Based Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
