@@ -6,7 +6,7 @@
 
 ## 🔭 Projects
 
-### [vibe.market — Solana NFT Marketplace](https://github.com/layla-lili/nft-marketplace)
+### [purpleMango marketplace — Solana NFT Marketplace](https://github.com/layla-lili/purpleMango-marketplace)
 Production-grade NFT marketplace on Solana, rebuilt from scratch with deliberate architecture choices.
 - **Anchor (Rust)** smart contracts — fixed-price listings, auctions, royalty enforcement via on-chain Metaplex metadata
 - **Custom Go indexer** — WebSocket pipeline subscribing to program logs, decoding Anchor event discriminators, writing idempotently to Postgres using tx signature as unique key. No Graph Protocol.
